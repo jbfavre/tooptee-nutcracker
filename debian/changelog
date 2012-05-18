@@ -1,4 +1,4 @@
-nutcracker (0.1.17-1~tooptee1) precise; urgency=low
+nutcracker (0.1.17-1~tooptee12+1) precise; urgency=low
 
   * New upstream version.
   * dotBuntu build for Ubuntu 12.04 Precise
