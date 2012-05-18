@@ -1,0 +1,12 @@
+nutcracker (0.1.17-1~tooptee1) precise; urgency=low
+
+  * New upstream version.
+  * dotBuntu build for Ubuntu 12.04 Precise
+
+ -- Jean Baptiste Favre <jbfavre@dotbuntu.org>  Sat, 12 May 2012 21:32:03 +0200
+
+nutcracker (0.1.16-1) lucid; urgency=low
+
+  * Initial build for Ubuntu 10.04 Lucid
+
+ -- Jean Baptiste Favre <jbfavre@dotbuntu.org>  Fri, 30 Mar 2012 11:26:28 +0200
